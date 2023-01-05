@@ -1,8 +1,9 @@
 {
-    "botToken": "TOKEN-HERE",
-    "prefix": "*",
+    "botToken": "MTA2MDY4NDM3MjA2OTYwMTM1MA.GF2Ryh.Eod-_wzWX-2orUYvRkSJSsk0gNQZGc_Vkp3T5o
+    ",
+    "prefix": "/",
     "command_name": "start",
     
-    "give_role": false,
-    "role_name": "ROLE-NAME-HERE"
+    "give_role": true,
+    "role_name": "anon"
 }
